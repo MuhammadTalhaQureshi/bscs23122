@@ -1,0 +1,74 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:skyblue;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:aliceblue;
+    color:darkgrey;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 20px;
+}
+
+.about-us {
+    text-align: center;
+    padding: 50px;
+}
+
+.about-us h1 {
+    font-size: 2em;
+}
+
+.check-products {
+    text-align: center;
+    padding: 50px;
+}
+
+.check-products h2 {
+    font-size: 1.5em;
+}
+
+.check-products .btn {
+    background-color:rgb(250, 78, 10);
+    color:rgb(35, 3, 95);
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+}
+
+.check-products .btn:hover {
+    background-color:black;
+}
+
+.footer {
+    background-color:darkkhaki
+    ;
+    color:black;
+    text-align: center;
+    padding: 20px;
+}
+
+.contact-details {
+    text-align: center;
+    padding: 50px;
+}
+
+.social-media img {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+
+
